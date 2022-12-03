@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivaylo and I am tacking new carier path.
+###👋 Hi, I’m Ivaylo and I am tacking new carier path.
 - 👀 I’m interested in programing
 
 - 📚 I'm gradueted in Technical University in Gabrovo 
