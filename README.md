@@ -15,7 +15,7 @@
 
 - 👉 Effective communicator
 
-- 👉 Ability to work well in team and solo
+- 👉 Ability to work well in a team and solo
 
 - 👉 Ability to work efficiently under presure and to meet demanding schedules
 
