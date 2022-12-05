@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Ivaylo <br> And I am preparing myself for new professional direction</h1>
+<h2 align="left">Hi 👋, I'm Ivaylo <br> And I am preparing myself for a new professional direction</h1>
 <h3 align="left">I’m passionate about programing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velkoviv&label=Profile%20views&color=0e75b6&style=flat" alt="velkoviv" /> </p>
