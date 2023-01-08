@@ -20,9 +20,9 @@
 
 - 👉 Ability to work efficiently under presure and to meet demanding schedules
 
-- 👉 Project Management skills
+- 👉 Project Management Skills
 
-- 👉 Scrum, Agile, Lean, Six Sigma - black belt <br>
+- 👉 Scrum, Agile, Lean, Six Sigma - Black Belt <br>
 
 <h4 align="left">At the moment</h4>
 
