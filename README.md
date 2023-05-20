@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Python in <a href="https://www.softuni.bg" target="_blank" rel="noreferrer">SoftUni</a>, Database MySQL and Front-End Web Development in <a href="https://www.udemy.com" target="_blank" rel="noreferrer">Udemy</a>**
 
-- 🤝 I’m looking for **my next job** and
+- 🤝 I’m looking for **my next job** and **new chalanges**
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
