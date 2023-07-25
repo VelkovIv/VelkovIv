@@ -26,13 +26,13 @@
 
 <h4 align="left">At the moment</h4>
 
-- 🌱 I’m currently learning **Front-End Web Development in <a href="https://www.udemy.com" target="_blank" rel="noreferrer">Udemy</a>**
+- 🌱 I’m currently learning **Python and Django Full Stack Web Developer Bootcamp <a href="https://www.udemy.com" target="_blank" rel="noreferrer">Udemy</a>**
 
 - 🤝 I’m looking for **my next job** and **new chalanges**
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 💬 Ask me about **Python, MySQL, Web Development**
+- 💬 Ask me about **Python, MySQL, Web Development, Flask**
 
 - 📫 How to reach me **ivaylo.velkov@gmail.com**
 
