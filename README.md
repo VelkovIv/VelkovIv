@@ -32,7 +32,7 @@
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 💬 Ask me about **Python, MySQL, Web Development, Flask**
+- 💬 Ask me about **Python, MySQL, Web Development, Flask, React, EJS, JS**
 
 - 📫 How to reach me **ivaylo.velkov@gmail.com**
 
