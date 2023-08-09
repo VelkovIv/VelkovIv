@@ -1,5 +1,5 @@
 <div style="background-color: #fff;">
-<h2 align="left">Hi 👋, I'm Ivaylo <br> And I am preparing myself for a new professional direction resuming one of my goal and dream</h1>
+<h2 align="left">Hi 👋, I'm Ivaylo <br> And I am preparing myself for a new professional direction resuming one of my goal and a dream</h1>
 <h3 align="left">I’m passionate about programing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velkoviv&label=Profile%20views&color=0e75b6&style=flat" alt="velkoviv" /> </p>
