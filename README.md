@@ -26,7 +26,7 @@
 
 <h4 align="left">At the moment</h4>
 
-- 🌱 Technical Lead in A1 Bulgaria, working for internal newwork IT solutions for all A1 countries
+- 🌱 I’m Technical Lead in A1 Bulgaria, working for internal newwork IT solutions for all A1 countries
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
