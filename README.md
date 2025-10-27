@@ -26,13 +26,11 @@
 
 <h4 align="left">At the moment</h4>
 
-- 🌱 I’m currently learning **Python and Django Full Stack Web Developer Bootcamp <a href="https://www.udemy.com" target="_blank" rel="noreferrer">Udemy</a>**
-
-- 🤝 I’m looking for **my next job** and **new chalanges**
+- 🌱 Technical Lead in A1 Bulgaria, working for internal newwork IT solutions for all A1 countries
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 💬 Ask me about **Python, MySQL, Web Development, Flask, React, EJS, JS**
+- 💬 Ask me about **Python, MySQL, Web Development, Flask, React, EJS, JS, VBA**
 
 - 📫 How to reach me **ivaylo.velkov@gmail.com**
 
