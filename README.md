@@ -51,6 +51,7 @@
       <a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src='https://process.filestackapi.com/cache=expiry:max/resize=width:700/TyzZKw86QzSElYK6bfXK' height=50px></a>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
       <a hidden href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img hidden src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+      <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/701195.jpg" alt="VBA" width="100" height="100"/></a>
       
 </p>
 
