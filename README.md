@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velkoviv&label=Profile%20views&color=0e75b6&style=flat" alt="velkoviv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velkoviv" alt="velkoviv" /></a> </p>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velkoviv" alt="velkoviv" /></a> </p>-->
 - 📚 I'm gradueted in Technical University in Gabrovo <br>
       Master in Mechanical Engineering (1998) and Master in Computer Sciences (2002)<br>
 
@@ -55,7 +56,7 @@
       
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velkoviv&show_icons=true&locale=en" alt="velkoviv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velkoviv&layout=compact" alt="velkoviv" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velkoviv&show_icons=true&locale=en" alt="velkoviv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velkoviv&layout=compact" alt="velkoviv" /></p>-->
 
 </div>
